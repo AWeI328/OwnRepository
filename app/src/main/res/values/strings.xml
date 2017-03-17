@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">YouYiBuy</string>
+
+    <string name="home_page">首页</string>
+    <string name="category">分类</string>
+    <string name="shopping_cart">购物车</string>
+    <string name="user_center">个人中心</string>
+
+    <!--User Center-->
+    <string name="login_regist">登录/注册</string>
+    <string name="text_waiting_pay">待付款</string>
+    <string name="text_waiting_receive">待收货</string>
+    <string name="text_waiting_judge">待评价</string>
+    <string name="text_sales_return">退换/售后</string>
+    <string name="text_my_order">我的订单</string>
+    
+    <string name="text_my_privilege">我的特权</string>
+    <string name="text_my_wallet">我的钱包</string>
+    <string name="text_my_coupons">我的优惠券</string>
+    <string name="text_my_collection">我的收藏</string>
+    <string name="text_my_footprint">我的足记</string>
+    <string name="text_share">分享</string>
+
+    <string name="text_recommend">为你推荐</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

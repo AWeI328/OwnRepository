@@ -1,0 +1,23 @@
+<layout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+    <data>
+
+    </data>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="com.wk.youyibuy.ui.fragment.usercenter.UserCenterFragment"
+        >
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/recyclerView_user_center"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/fragment_background">
+
+        </android.support.v7.widget.RecyclerView>
+    </LinearLayout>
+</layout>
+
+

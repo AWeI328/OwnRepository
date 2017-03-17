@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categoryList">
+        <item>推荐分类</item>
+        <item>潮流女装</item>
+        <item>品牌男装</item>
+        <item>个护化妆</item>
+        <item>家用电器</item>
+        <item>电脑办公</item>
+        <item>手机数码</item>
+        <item>母婴童装</item>
+        <item>图书音像</item>
+        <item>家居家纺</item>
+        <item>厨房用品</item>
+        <item>家具建材</item>
+        <item>食品生鲜</item>
+        <item>酒水饮料</item>
+        <item>运动户外</item>
+        <item>鞋靴箱包</item>
+        <item>奢侈礼品</item>
+        <item>钟表珠宝</item>
+        <item>玩具乐器</item>
+        <item>内衣配饰</item>
+    </string-array>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+    <data>
+
+    </data>
+    <LinearLayout
+        android:id="@+id/list_linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/mainStyleWhite"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableStart="@drawable/vector_usercenter_privilege"
+            android:drawablePadding="8dp"
+            android:drawableEnd="@drawable/vector_usercenter_right_arrow_large"
+            android:gravity="start|center_vertical"
+            android:padding="10dp"
+            android:textColor="@color/black_111"
+            tools:text="我的特权"
+            android:textSize="16sp" />
+
+        <include layout="@layout/line_divider"/>
+
+    </LinearLayout>
+</layout>
+
